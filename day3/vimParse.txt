@@ -1,0 +1,4 @@
+gg0100000J
+:s/don't()\(.\{-}\)do()/begone/g
+:s/don't()\(.*\)/begone/g
+:x
